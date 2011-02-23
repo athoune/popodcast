@@ -6,9 +6,14 @@ Handling podcast without bloated software
 Install it
 ----------
 
-You need feedparser. You can fetch it from [feed parser](http://feedparser.org/) or install it from package or python install tools
+You need feedparser. You can fetch it from [feed parser](http://feedparser.org/)
+or install it from python install tools
 
 	sudo pip install feedparser
+
+Or debian/ubuntu package
+
+	sudo apt-get install python-feedparser
 
 chmod it
 
